@@ -10,6 +10,7 @@
 
 2. **의존성 설치**
     ```bash
+    poetry shell
     poetry install
     ```
 
